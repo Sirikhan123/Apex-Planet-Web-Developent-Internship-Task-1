@@ -1,13 +1,45 @@
-Rahil Web Development Internship Projects – ApexPlanet This repository contains 5 frontend development tasks completed as part of the Web Development Internship by ApexPlanet. Each task demonstrates practical skills using HTML, CSS, and JavaScript.
+# Intermediate HTML, CSS, and JavaScript – Task 2
 
-📁 Tasks Included:
+This is Task 2 of my internship at **Apex Planet Software Pvt. Ltd**, aimed at enhancing front-end development skills using HTML, CSS, and JavaScript.
 
-Task 1: Basic webpage with HTML, CSS, and JS interactivity
+## 🚀 Objective
+To strengthen my understanding of:
+- Semantic HTML and responsive design
+- CSS Flexbox and Grid for layout
+- JavaScript for DOM manipulation and form validation
 
-Task 2: Responsive contact form and dynamic to-do list
+## 🧩 Project Overview
 
-Task 3: Interactive quiz and API data integration
+### 🔹 Homepage
+- A minimal landing page with two buttons:
+  - **Contact Form**
+  - **To-Do List**
+- Fully responsive design with clean UI and theme colors based on the internship task banner.
 
-Task 4: Personal portfolio, note app (local storage), product filter page
+### 🔹 Contact Form Page
+- Built using HTML and styled with CSS.
+- Includes JavaScript form validation for:
+  - Required fields
+  - Proper email format
+- Responsive form layout for both desktop and mobile views.
 
-Task 5: Final full web app with performance optimization and responsiveness
+### 🔹 To-Do List Page
+- Users can:
+  - Add tasks
+  - Remove tasks
+- Includes a creative **strike-through animation** before a task is removed.
+- Built using JavaScript DOM manipulation.
+- Mobile-friendly and responsive.
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (Vanilla DOM manipulation)
+
+## 💡 Features
+- Simple and clean UI
+- Responsive layout
+- Interactive to-do list
+- Form validation with alerts
+- Smooth animation effects
+Submitted By - Rahil
